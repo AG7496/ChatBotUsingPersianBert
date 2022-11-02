@@ -1,1 +1,1 @@
-transformer based chatbot(in persian)
+transformer based chatbot
