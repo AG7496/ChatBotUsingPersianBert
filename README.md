@@ -1,1 +1,1 @@
-Trained transformer based chatbot usnig taraboard questions dataset
+transformer based chatbot(in persian)
